@@ -1,7 +1,7 @@
 import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
-  title: "Anoop Varghese — Mobile & Web Developer",
+  title: "Anoop Varghese — Content Strategist",
   author: "Anoop Varghese",
   description:
     "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
@@ -25,10 +25,10 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Anoop Varghese",
+    specialty: "Content Strategist & Community Builder",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Content Strategist with 6+ years experience in B2B SaaS and D2C. Expert in instagram, LinkedIn and Youtube. Skills in community management across Reddit, and Quora. My GEO-optimized content has been cited by LLMs and have ranked on top 3.",
     email: "example@email.com",
   },
   experience: [
